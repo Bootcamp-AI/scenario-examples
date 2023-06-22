@@ -1,4 +1,3 @@
+# Steps to complete the project:
 
-<br>
-
-How to use PV/PVC volumes in Kubernetes environments
+Make sure you have already setup your ROS Workspace. If not, you can find instructions here.
