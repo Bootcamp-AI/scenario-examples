@@ -1,23 +1,25 @@
 
-Create a new empty file called `my-new-file` in your home directory
+Install dependencies
 
 <br>
 
-### Solution
-First we make sure we're in our home directory using
+### Gazebo
 
 ```plain
-cd ~
+curl -sSL http://get.gazebosim.org | sh
 ```{{exec}}
 
-We can list the current directory using
+### Ros
 
 ```plain
-pwd
+sudo apt-get install python3-rosdep
 ```{{exec}}
-
-Now we create the file
 
 ```plain
-touch my-new-file
+sudo apt-get install python-rosdep
 ```{{exec}}
+
+```plain
+sudo pip install -U rosdep
+```{{exec}}
+

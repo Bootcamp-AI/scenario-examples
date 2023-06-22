@@ -1,17 +1,19 @@
 
-Create a new file `/etc/my-second-file` with content `amazing`
+Install dependencies
 
 <br>
 
-### Solution
-We can use the command `echo`:
+### Gazebo
 
 ```plain
-echo amazing > /etc/my-second-file
+mkdir -p ~/catkin_ws/src
 ```{{exec}}
-
-And to verify we can run
 
 ```plain
-cat /etc/my-second-file
+cd ~/catkin_ws/
 ```{{exec}}
+
+```plain
+catkin_make
+```{{exec}}
+
