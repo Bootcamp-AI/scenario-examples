@@ -1,9 +1,5 @@
 
-Install dependencies
-
-<br>
-
-### Gazebo
+### Gazebo environment
 
 ```plain
 mkdir -p ~/catkin_ws/src
@@ -11,6 +7,10 @@ mkdir -p ~/catkin_ws/src
 
 ```plain
 cd ~/catkin_ws/
+```{{exec}}
+
+```plain
+apt install catkin
 ```{{exec}}
 
 ```plain
