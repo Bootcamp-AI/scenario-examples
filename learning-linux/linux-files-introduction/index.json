@@ -1,6 +1,6 @@
 {
-  "title": "Linux Files Intro",
-  "description": "Let's learn some basic commands to work with files on a Linux system",
+  "title": "Robotic Arm",
+  "description": "In this project, you will be writing code to perform Inverse Kinematics, meaning given a list of end-effector poses, you will calculate joint angles for the Kuka KR210. To complete this project you will use the tools you learned about in the lesson, and build upon them.",
   "details": {
     "intro": {
       "text": "intro.md",
@@ -8,17 +8,14 @@
     },
     "steps": [
       {
-        "title": "Create an empty file",
+        "title": "Install dependencies",
         "text": "step1/text.md"
       },
       {
-        "title": "Create a file with text",
+        "title": "ROS Workspace",
         "text": "step2/text.md"
       }
     ],
-    "finish": {
-      "text": "finish.md"
-    }
   },
   "backend": {
     "imageid": "ubuntu"
