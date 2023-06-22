@@ -1,17 +1,17 @@
 {
-  "title": "Kubernetes Volumes",
-  "description": "How to use PV/PVC volumes in Kubernetes environments",
+  "title": "Robotic Arm",
+  "description": "In this project, you will be writing code to perform Inverse Kinematics, meaning given a list of end-effector poses, you will calculate joint angles for the Kuka KR210. To complete this project you will use the tools you learned about in the lesson, and build upon them.",
   "details": {
     "intro": {
       "text": "intro.md"
     },
     "steps": [
       {
-        "title": "Create a PVC and a Pod that uses it",
+        "title": "Install dependencies",
         "text": "step1.md"
       },
       {
-        "title": "Create a PVC and a Pod that uses it",
+        "title": "ROS Workspace",
         "text": "step2.md"
       }      
     ],
