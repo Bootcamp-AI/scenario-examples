@@ -5,7 +5,17 @@
     "intro": {
       "text": "intro.md",
       "background": "setup.sh"
-    }
+    },    
+    "steps": [
+      {
+        "title": "Install dependencies",
+        "text": "step1/text.md",
+      },
+      {
+        "title": "ROS Workspace",
+        "text": "step2/text.md",
+      }
+    ],
   },
   "backend": {
     "imageid": "ubuntu"
