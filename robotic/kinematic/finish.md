@@ -1,4 +1,5 @@
 
 <br>
 
-The end.
+Continue your project here. https://github.com/Bootcamp-AI/RoboND-Kinematics.git
+
