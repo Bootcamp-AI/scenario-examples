@@ -1,3 +1,6 @@
-# Steps to complete the project:
+# Steps to complete this labs:
 
-Make sure you have already setup your ROS Workspace. If not, you can find instructions here.
+1. Install ROS.
+2. Initialize ROS env.
+
+All this steps run locally.
