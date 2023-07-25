@@ -11,4 +11,4 @@ The OpenStreetMap project is an open source, collaborative endeavor to create fr
  
 OpenStreetMap data can come in several different formats. The data that is used for this project comes in the form of an OSM XML file (.osm file), and we have provided a sample from the [OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Main_Page) below. Although you may not have worked with this type of data before, have a look at the data below and try to guess which element types from the next quiz are present in the data. We are confident you can figure this out by carefully studying the data!
 
-This project is part of [C++ Bootcamp](https://www.bootcampai.org/courses/c-developer-nanodegree-program/lesson)
+<strong>This project is part of [C++ Bootcamp](https://www.bootcampai.org/courses/c-developer-nanodegree-program/lesson)</strong>

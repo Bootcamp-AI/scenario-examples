@@ -3,4 +3,4 @@ Add a distance declaration to the RouteModel::Node class in route_model.h. This 
 Return the euclidean distance from the current node to the node passed in. Note that for points (x_1, y_1)(x1​,y1​) and (x_2, y_2)(x2​,y2​), the euclidean distance is given by
 ![Scan results](./sqr.png)
 
-<b>Have a look at the [video](https://www.bootcampai.org/courses/c-developer-nanodegree-program/lesson/10-code-write-the-distance-function) below for a brief overview of this file.</b>
+<strong>Have a look at the [video](https://www.bootcampai.org/courses/c-developer-nanodegree-program/lesson/10-code-write-the-distance-function) below for a brief overview of this file.</strong>

@@ -12,4 +12,4 @@
 2. Call CreateNodeToRoadHashmap() in the RouteModel constructor in route_model.cpp.
 3. Lastly, add a public getter function GetNodeToRoadMap() in the RouteModel class in route_model.h. This function should return a reference to the node_to_road variable, and it will be primarily used for testing.
 
-<b>Have a look at the [video](https://www.bootcampai.org/courses/c-developer-nanodegree-program/lesson/13-2-code-create-node-to-road-hash-table/) below for a brief overview of this file.</b>
+<strong>Have a look at the [video](https://www.bootcampai.org/courses/c-developer-nanodegree-program/lesson/13-2-code-create-node-to-road-hash-table/) below for a brief overview of this file.</strong>
