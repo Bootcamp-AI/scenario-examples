@@ -1,0 +1,25 @@
+{
+  "title": "Project System Monitor",
+  "description": "Starter code for System Monitor Project in the Object Oriented Programming Course of the C++ Bootcamp.",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "foreground": "foreground.sh",
+      "background": "background.sh"
+    },
+    "steps": [
+      {
+        "text": "step1.md"
+      },
+      {
+        "text": "step2.md"
+      }
+    ]
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  },
+  "interface": {
+    "layout": "ide"
+  }
+}
