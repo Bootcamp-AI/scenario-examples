@@ -11,4 +11,4 @@
   <li>The RouteModel data is rendered using the IO2D library.</li>
 </ul>
 
-Have a look at the [video](https://www.bootcampai.org/courses/c-developer-nanodegree-program/lesson/03-io2d-starter-code/) below for a brief overview of this file.
+<b>Have a look at the [video](https://www.bootcampai.org/courses/c-developer-nanodegree-program/lesson/03-io2d-starter-code/) below for a brief overview of this file.</b>

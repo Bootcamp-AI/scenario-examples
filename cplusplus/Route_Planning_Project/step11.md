@@ -30,4 +30,4 @@ The FindNeighbor method, given a <code>vector&lt;int&gt; node_indices</code>:
 </ol>
 <strong>Note:</strong> there will be no new tests for this method. The method is private, and will be used as a helper function in a public method in the next exercise.
 
-Have a look at the [video](https://www.bootcampai.org/courses/c-developer-nanodegree-program/lesson/14-code-write-findneighbor/) below for a brief overview of this file.
+<b>Have a look at the [video](https://www.bootcampai.org/courses/c-developer-nanodegree-program/lesson/14-code-write-findneighbor/) below for a brief overview of this file.</b>
