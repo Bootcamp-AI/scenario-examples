@@ -29,7 +29,7 @@ sudo apt update
 
 ### 4. Initialize ROS noetic
 ```plain
-sudo apt install ros-noetic-desktop-full
+sudo apt install ros-noetic-ros-base
 ```{{exec}}
 
 ```plain
