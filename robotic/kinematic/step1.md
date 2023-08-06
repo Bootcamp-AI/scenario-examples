@@ -28,6 +28,22 @@ sudo apt update
 ```{{exec}}
 
 ### 4. Initialize ROS noetic
+You can install different versions of ROS Noetic.
+
+<strong>Option 1.</strong>
+Desktop-Full Install: (Recommended) : Everything in Desktop plus 2D/3D simulators and 2D/3D perception packages
+```plain
+sudo apt install ros-noetic-desktop-full
+```{{exec}}
+
+<strong>Option 2.</strong>
+Desktop Install: Everything in ROS-Base plus tools like rqt and rviz
+```plain
+sudo apt install ros-noetic-desktop
+```{{exec}}
+
+<strong>Option 3 (Recommended).</strong>
+Desktop Install: Everything in ROS-Base plus tools like rqt and rviz
 ```plain
 sudo apt install ros-noetic-ros-base
 ```{{exec}}
@@ -35,6 +51,9 @@ sudo apt install ros-noetic-ros-base
 ```plain
 Y
 ```{{exec}}
+
+
+
 
 ### 5. Environment setup
 
