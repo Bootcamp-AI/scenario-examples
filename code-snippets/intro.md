@@ -1,8 +1,4 @@
+## Github Check
 
-<br>
+Follow the Task List bellow to Practice With Getting Your Github Repository Set Up.
 
-```
-howTo() {
-    includeCode("snippets");
-}
-```

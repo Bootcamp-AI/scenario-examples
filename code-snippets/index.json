@@ -1,6 +1,6 @@
 {
-  "title": "Code Snippets",
-  "description": "Include code snippets of various languages",
+  "title": "Github Check",
+  "description": "Follow the Task List to Practice With Getting Your Github Repository Set Up.",
   "details": {
     "intro": {
       "text": "intro.md"
@@ -8,17 +8,8 @@
     "steps": [
       {
         "text": "step1.md"
-      },
-      {
-        "text": "step2.md"
-      },
-      {
-        "text": "step3.md"
       }
-    ],
-    "finish": {
-      "text": "finish.md"
-    }
+    ]
   },
   "backend": {
     "imageid": "ubuntu"
