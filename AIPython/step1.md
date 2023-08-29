@@ -1,5 +1,7 @@
 ## TODO: Edit program check_images.py
 
+AIP-classifying-images > check_images.py
+
 The check_images.py is the program file that you will be editing to achieve the four objectives above. This file contains a main() function that outlines how to complete this program through using functions that have not yet been defined. You will be creating these undefined functions in check_images.py to achieve the objectives above.
 
 ### For students that:
@@ -8,7 +10,7 @@ The check_images.py is the program file that you will be editing to achieve the 
 <li>Are new to Python and/or programming, or</li>
 <li>Feel less comfortable with programming in Python.</li>
 </ul>
-We have provided an alternative version of ***check_images.py** named **check_images_hints.py***. It's the same as check_images.py, except check_images_hints.py:
+We have provided an alternative version of *check_images.py** named **check_images_hints.py**. It's the same as check_images.py, except check_images_hints.py:
 
 <ul>
 <li>Provides more of the instructor solution, so there is less for the student to code on their own. </li>
@@ -39,3 +41,5 @@ Specifically the information provides:</p>
 <li><p>Students can use the functions within the program <a href="https://github.com/udacity/AIPND/blob/master/intropylab-classifying-images/print_functions_for_lab_checks.py" target="_blank">print_functions_for_lab_checks.py</a> to check their code for sections <strong>7. Command Line Arguments</strong> through <strong>14. Calculating Results</strong>. Students will find this program within the Lab Workspace and within the GitHub repository (see link above). The docstring below each function definition within <strong>print_functions_for_lab_checks.py</strong>, describes how to use the function.  Additionally, one can find each function used within the <em>Lab Solution</em> (see below).</p></li>
 <li><p>The <em>Lab Solution</em> can be found within <strong>18. Lab Solution Workspace</strong> and within the GitHub repository as <a href="https://github.com/udacity/AIPND/blob/master/intropylab-classifying-images/check_images_solution.py" target="_blank">check_images_solution.py</a>.</p></li>
 </ul>
+
+<strong>Have a look at the [Bootcamp](https://www.bootcampai.org/courses/ai-programming-with-python/) to know more about this Lab.</strong>
