@@ -3,10 +3,10 @@ Imagine a scenario where you have built Docker images and containers that you wo
 
 Four basic Docker CLI comes into action:
 <ul>
-<li>The `docker export` - Export a container’s filesystem as a tar archive</li>
-<li>The `docker import` - Import the contents from a tarball to create a filesystem image</li>
-<li>The `docker save` - Save one or more images to a tar archive (streamed to STDOUT by default)</li>
-<li>The `docker load` - Load an image from a tar archive or STDIN</li>
+<li>The ```docker export``` - Export a container’s filesystem as a tar archive</li>
+<li>The ```docker import``` - Import the contents from a tarball to create a filesystem image</li>
+<li>The ```docker save``` - Save one or more images to a tar archive (streamed to STDOUT by default)</li>
+<li>The ```docker load``` - Load an image from a tar archive or STDIN</li>
 </ul>
 
 <br>
@@ -21,7 +21,6 @@ docker run -d -p 80:80 nginx
 ```plain
 docker ps -a
 ```{{exec}}
-<br>
 ```plain
 docker export df2 > nginx.tar
 ```{{exec}}
