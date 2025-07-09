@@ -7,12 +7,14 @@ docker images
 ```{{exec}}
 
 <br>
+
 ### Show all images (default hides intermediate images)
 ```plain
 docker images -a
 ```{{exec}}
 
 <br>
+
 ### List images by name and tag
 The docker images command takes an optional [REPOSITORY[:TAG]] argument that restricts the list to images that match the argument. If you specify REPOSITORY but no TAG, the docker images command lists all images in the given repository.
 
@@ -33,12 +35,14 @@ docker images alpine:3.7
 ```{{exec}}
 
 <br>
+
 ### List the full length image IDs
 ```plain
 docker images --no-trunc
 ```{{exec}}
 
 <br>
+
 ### Listing out images with filter
 ```plain
 docker images
@@ -50,6 +54,7 @@ docker images --filter=reference='alpine'
 ```{{exec}}
 
 <br>
+
 ### Explanation
 The [REPOSITORY[:TAG]] value must be an “exact match”.
 
