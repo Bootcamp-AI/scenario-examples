@@ -24,7 +24,7 @@
 <br><br>
 Powered by [bootcampai.org](https://bootcampai.org)
 <a href="https://www.bootcampai.org/">
-    <img src="./outputlogo.png" style="width: 70px">
+    <img src="./outputlogo.png" style="width: 60px">
 </a>
 
 

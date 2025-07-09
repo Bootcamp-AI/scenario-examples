@@ -7,12 +7,12 @@
       },
       "steps": [
         {
-          "title": "Create a pod",
+          "title": "Running Hello World Example",
           "text": "step1/text.md",
           "verify": "step1/verify.sh"
         },
         {
-          "title": "Delete a pod",
+          "title": "Working with Docker Image",
           "text": "step2/text.md",
           "verify": "step2/verify.sh"
         }
