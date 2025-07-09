@@ -3,10 +3,10 @@ Imagine a scenario where you have built Docker images and containers that you wo
 
 Four basic Docker CLI comes into action:
 
-⋅⋅⋅⋅* The **docker export** - Export a container’s filesystem as a tar archive
-⋅⋅⋅⋅* The **docker import** - Import the contents from a tarball to create a filesystem image
-⋅⋅⋅⋅* The **docker save** - Save one or more images to a tar archive (streamed to STDOUT by default)
-⋅⋅⋅⋅* The **docker load** - Load an image from a tar archive or STDIN
+- The **docker export** - Export a container’s filesystem as a tar archive
+- The **docker import** - Import the contents from a tarball to create a filesystem image
+- The **docker save** - Save one or more images to a tar archive (streamed to STDOUT by default)
+- The **docker load** - Load an image from a tar archive or STDIN
 
 <br>
 
