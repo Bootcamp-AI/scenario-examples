@@ -18,8 +18,7 @@
         },
         {
           "title": "Saving Images and Containers as Tar Files for Sharing",
-          "text": "step3/text.md",
-          "verify": "step3/verify.sh"          
+          "text": "step3/text.md"
         }
       ],
       "finish": {
