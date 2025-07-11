@@ -1,10 +1,13 @@
+
+De
+
 Create a Dockerfile
 ```plain
 nano Dockerfile
 ```{{exec}}
 
 ```
-FROM node:14 \
+FROM node:14 
 WORKDIR /app
 COPY ["package.json", "./"]
 RUN npm install
@@ -21,7 +24,7 @@ docker build .
 
 #### Run
 ```plain
-docker run -p 3000:3000 <id>
+docker run -p 80:3000 <id>
 ```{{exec}}
 
 {{TRAFFIC_HOST1_80}}
