@@ -3,15 +3,15 @@ Create a Dockerfile
 nano Dockerfile
 ```{{exec}}
 
-`
-FROM node:14
+```
+FROM node:14 \
 WORKDIR /app
-COPY package.json
+COPY ["package.json", "./"]
 RUN npm install
 COPY . .
 EXPOSE 3000
 CMD ["node", "app.mjs"]
-`
+```
 
 #### Run
 ```plain
@@ -24,6 +24,8 @@ docker build .
 docker run -p 3000:3000 <id>
 ```{{exec}}
 
+{{TRAFFIC_HOST1_80}}
+
 #### Run
 ```plain
 docker ps
@@ -33,4 +35,7 @@ docker ps
 ```plain
 docker stop <name>
 ```{{exec}}
+
+
+
 
