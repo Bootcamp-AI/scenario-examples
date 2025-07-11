@@ -19,7 +19,11 @@
         {
           "title": "Saving Images and Containers as Tar Files for Sharing",
           "text": "step3/text.md"
-        }
+        },
+        {
+          "title": "Building Your First Alpine Docker Image and Push it to DockerHub",
+          "text": "step4/text.md"
+        }        
       ],
       "finish": {
         "text": "finish.md"
