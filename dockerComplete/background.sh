@@ -10,4 +10,4 @@ echo starting... # to test stdout output in /var/log/killercoda
 #cat my-file.txt
 git clone https://github.com/Bootcamp-AI/first-demo-starting-setup.git
 cd first-demo-starting-setup
-cat /root/first-demo-starting-setup/app.mjs
+cat app.mjs
