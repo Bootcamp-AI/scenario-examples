@@ -8,4 +8,3 @@ nvm install 20.18.0
 nvm use 20.18.0
 
 cd nodejs-app-starting-setup
-cat nodejs-app-starting-setup/server.js
