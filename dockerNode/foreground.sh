@@ -1,8 +1,8 @@
-echo "Installing scenario..."
-cd nodejs-app-starting-setup
+#echo "Installing scenario..."
 
-#while [ ! -f /tmp/finished ]; do sleep 1; done
-#git clone https://github.com/Bootcamp-AI/first-demo-starting-setup.git
-#cd first-demo-starting-setup
-#cat /root/first-demo-starting-setup/app.mjs
-#echo DONE
+
+curl -sL https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh -o install_nvm.sh
+bash install_nvm.sh
+source ~/.bashrc
+nvm install 20.18.0
+nvm use 20.18.0
