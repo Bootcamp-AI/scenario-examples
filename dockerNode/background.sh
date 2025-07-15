@@ -9,8 +9,8 @@ echo starting... # to test stdout output in /var/log/killercoda
 #touch /tmp/finished
 #cat my-file.txt
 
+
 git clone https://github.com/Bootcamp-AI/nodejs-app-starting-setup.git
-
 cd nodejs-app-starting-setup
-cat server.js
 
+#docker run it node
