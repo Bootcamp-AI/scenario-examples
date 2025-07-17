@@ -1,23 +1,22 @@
 ### Docker
 
 Stop Docker
-#### Run
+#### Stop docker container
 ```plain
 docker stop feedback-app
 ```{{exec}}
 
-#### Run
-Place your id
+#### Run docker container
 ```plain
 docker run -p 3000:80 -d --name feedback-app feedback-node
 ```{{exec}}
 
-#### Run
+#### Stop docker container
 ```plain
 docker stop feedback-app
 ```{{exec}}
 
-#### Run
+#### Start docker container
 ```plain
 docker start feedback-app
 ```{{exec}}
