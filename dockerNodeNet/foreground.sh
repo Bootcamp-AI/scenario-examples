@@ -1,5 +1,3 @@
 #echo "Installing scenario..."
 
-
-
-cd nodejs-app-starting-setup
+cd docker-networking
