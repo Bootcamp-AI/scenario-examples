@@ -1,6 +1,6 @@
 <br>
 
-### Using curl !
+### Using curl
 
 In this scenario you'll learn how to use `curl`.
 
@@ -11,3 +11,12 @@ curl -O www.bitlaunch.io/robots.txt
 ```plain
 cat robots.txt
 ```{{exec}}
+
+```plain
+rm robots.txt
+```{{exec}}
+
+```plain
+ls
+```{{exec}}
+
