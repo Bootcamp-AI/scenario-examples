@@ -8,4 +8,6 @@ In this scenario you'll learn how to use `curl`.
 curl -O www.bitlaunch.io/robots.txt
 ```{{exec}}
 
-
+```plain
+cat robots.txt
+```{{exec}}
