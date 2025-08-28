@@ -10,7 +10,7 @@ node server.js
 ```{{exec}}
 
 #### Open the app
-{{TRAFFIC_HOST1_3000}}
+{{TRAFFIC_HOST1_80}}
 
 
 
