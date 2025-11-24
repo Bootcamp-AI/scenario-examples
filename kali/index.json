@@ -1,0 +1,20 @@
+{
+    "title": "Lab: Classifying Images",
+    "description": "Improving your programming skills using by Python to solve a complex problem.",
+    "details": {
+      "intro": {
+        "text": "intro.md",
+        "foreground": "foreground.sh",
+        "background": "background.sh"
+      },
+      "steps": [
+        {
+          "text": "step1.md"
+        }
+      ]
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
+  
