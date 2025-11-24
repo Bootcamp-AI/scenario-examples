@@ -2,7 +2,8 @@
 ```plain
 apt update
 ```{{exec}}
-```{{exec}}
+
+```plain
 apt install theharvester -y
 ```{{exec}}
 
